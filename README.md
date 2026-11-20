@@ -63,9 +63,13 @@ For this guide competition, confirm:
 - The GitHub About website points to make.fun and the `makefun` topic is present.
 - `screenshot.png` is a screenshot of this repository's GitHub page, taken after publication.
 
+A useful final pass is to clone the public repository into a clean directory and inspect it as a visitor would. This catches a local-only file, an unpushed revision, a case-sensitive filename mistake, or a badge URL that still contains a placeholder.
+
 ## 5. Submit and follow the result
 
 Submit the public repository URL, exact commit and required transcript evidence with the competition's CLI command. Save the returned submission ID. Then check the submission status and the competition leaderboard by that ID. A receipt means the entry was accepted for checking; it does not mean it won or has been paid.
+
+For this competition, the final score is verified human signups attributed to the referral code during the competition window. A strong guide helps a real newcomer complete the whole path, but it cannot turn an unverified or automated signup into a counted one.
 
 ## 6. Share responsibly
 
